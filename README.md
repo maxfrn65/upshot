@@ -1,6 +1,6 @@
 # flutter_projects
 
-A ENT app for education establisments.
+A VLE app for educational purposes.
 
 ## Getting Started
 
