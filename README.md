@@ -1,4 +1,4 @@
-# flutter_projects
+# upshot
 
 A VLE app for educational purposes.
 
