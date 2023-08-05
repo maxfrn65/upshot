@@ -1,6 +1,6 @@
 # upshot
 
-A VLE app for educational purposes.
+A Virtual Learning Environment app for educational establishments.
 
 ## Getting Started
 
